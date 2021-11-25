@@ -3,7 +3,7 @@ package nl.tudelft.jpacman.board;
 
 /**
  * A top-down view of a matrix of {@link Square}s.
- *sdfsdfs
+ *sdfsdfssdfsfdsdf
  * @author Jeroen Roosen 
  */
 public class Board {
